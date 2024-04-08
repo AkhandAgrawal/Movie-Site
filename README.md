@@ -1,1 +1,1 @@
-Movie Site
+This is a web application that enables users to browse movies and add reviews. The frontend, built with HTML, CSS, and vanilla JavaScript, fetches movie data from The Movie Database (TMDB) API and dynamically displays it. Users can also add, edit, and delete reviews for specific movies. On the backend, Node.js with Express.js handles HTTP requests, while MongoDB stores review data.
